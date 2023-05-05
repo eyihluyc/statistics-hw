@@ -1,2 +1,5 @@
 # statistics-hw
-solution for the assignment on the Statistics course at Innopolis University
+
+## Travelling Salesman Problem with Simulated Annealing:
+
+![](https://github.com/statistics-hw/tsp_sa_0.98.gif)
